@@ -28,3 +28,19 @@ header {
   line-height: 1.5;
   font-family: inherit;
 }
+.hero-title {
+  color: var(--wite-color);
+  font-weight: 600;
+font-size  : 48px;
+line-height: 1.5;
+text-align: right;
+letter-spacing: 0.005em;
+}
+.hero-button {
+  color: var(--wite-color);
+font-weight: 500;
+font-size  : 20px;
+line-height: 1.5;
+text-align: right;
+letter-spacing: 0.005em;
+}
